@@ -233,14 +233,14 @@ export default {
     position: absolute;
     top: -48px;
     left: -72px;
-    z-index: 2;
+    z-index: 1;
     animation: 180s animateSun linear infinite;
 }
 .moonIcon{
     position: absolute;
     bottom: -48px;
     right: -72px;
-    z-index: 2;
+    z-index: 1;
     animation: 180s animateMoon linear infinite;
 }
 .search{
